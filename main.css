@@ -1,0 +1,29 @@
+#products {
+  flex-wrap: wrap;
+}
+
+#products img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.card {
+  width: calc(100% / 3);
+  margin-top: 50px;
+  background-color: rgb(26, 26, 26);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+body {
+  background-color: rgb(26, 26, 26);
+}
+.card-text {
+  color: brown;
+}
+.card-title {
+  color: brown;
+}
+
+.form-label {
+  color: brown;
+}
